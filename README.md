@@ -13,7 +13,7 @@ Willkommen zum Java_WisequarterCourses! Dieses Projekt enthält Beispiele, Übun
 
 ## Beschreibung
 
-Java_mit_BTK ist ein Open-Source-Projekt, das entwickelt wurde, um Java-Programmierung zu lernen und zu üben. Es enthält verschiedene Beispiele und Übungen, die Schritt für Schritt erklärt werden, um den Lernprozess zu erleichtern. Das Projekt wurde von BTK Academy erstellt, einer führenden Online-Lernplattform für IT-Schulungen.
+Java_WisequarterCourses ist ein Open-Source-Projekt, das entwickelt wurde, um Java-Programmierung zu lernen und zu üben. Es enthält verschiedene Beispiele und Übungen, die Schritt für Schritt erklärt werden, um den Lernprozess zu erleichtern. Das Projekt wurde von Java_WisequarterCourseserstellt, einer führenden Online-Lernplattform für IT-Schulungen.
 
 ## Verwendung
 
