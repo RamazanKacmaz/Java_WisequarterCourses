@@ -9,7 +9,7 @@ public class C08_SwichStatements {
         System.out.println("Lutfen bir ay numarasi yaziniz : ");
         int ay = scanner.nextInt();
 
-        /*if (ay == 1) System.out.println("ocak");
+        if (ay == 1) System.out.println("ocak");
         else if (ay == 2 ) {System.out.println("subat");}
         else if (ay == 3 ) {System.out.println("mart");}
         else if (ay == 4 ) {System.out.println("nisan");}
@@ -21,7 +21,9 @@ public class C08_SwichStatements {
         else if (ay == 10 ) {System.out.println("Ekim");}
         else if (ay == 11 ) {System.out.println("Kasim");}
         else if (ay == 12 ) {System.out.println("aralik");}
-        else {System.out.println("gecersiz bit tarih");}*/
+        else {System.out.println("gecersiz bit tarih");}
+
+        System.out.println("==========================================");
 
     switch (ay){
         case 1 :
