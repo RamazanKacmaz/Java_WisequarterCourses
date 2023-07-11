@@ -23,6 +23,6 @@ public class C06_kendisubstringiz {
 
         System.out.println(str.substring(bslangic,bitis));
 
-        str.
+
     }
 }
