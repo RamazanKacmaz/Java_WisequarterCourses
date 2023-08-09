@@ -8,18 +8,22 @@ public class C04_Okul {
 
 
     public String getOkulAdi() {
+
         return okulAdi;
     }
 
     public void setOkulAdi(String okulAdi) {
+
         this.okulAdi = okulAdi;
     }
 
     public int getOgrencikaydi() {
+
         return ogrencikaydi;
     }
 
     public void setOgrencikaydi(int ogrencikaydi) {
+
         this.ogrencikaydi = ogrencikaydi;
     }
 }

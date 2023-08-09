@@ -3,6 +3,7 @@ package day32_stringBuilder_accessNodifier;
 public class C06 {
     public static void main(String[] args) {
         C05 obj = new C05();
+
         
         // System.out.println(obj.privateSayi);
         // private class uyelerine class disindan hic bir sekilde ulasilamaz
