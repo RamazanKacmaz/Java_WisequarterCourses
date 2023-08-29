@@ -1,0 +1,17 @@
+Java'da "Exceptions" (istisnalar), programın normal akışını bozan veya
+beklenmedik durumlarla başa çıkmak için kullanılan mekanizmalardır.
+Bir istisna, bir kod bloğunda ortaya çıkan hatalı durumu temsil eder
+ve bu durumun programın diğer kısımları tarafından ele alınmasına olanak tanır.
+İstisnalar, programın çökmesini önlemek ve hatayı düzgün bir şekilde raporlamak için kullanılır.
+
+Java'da istisnalar iki türde olabilir:
+
+Checked Exceptions (Kontrol Edilen İstisnalar): Bu tür istisnalar, derleme anında kontrol edilir ve
+kodunuzda try-catch veya throws ifadeleri ile ele alınması gereken istisnaları temsil eder.
+Örneğin, dosya işleme veya ağ bağlantısı gibi harici kaynaklarla çalışırken ortaya çıkabilecek hatalar
+bu kategoriye girer.
+
+Unchecked Exceptions (Kontrol Edilmeyen İstisnalar): Bu tür istisnalar, çalışma zamanında ortaya çıkar
+ve genellikle programcının kontrolü dışında olan hataları temsil eder. RuntimeException alt sınıfı olan
+ istisna türleri bu kategoriye girer. Örneğin, dizi sınırlarının dışına çıkma veya null bir referansa
+ erişme gibi hatalar bu kategoriye dahildir.
